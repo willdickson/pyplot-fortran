@@ -1,0 +1,7 @@
+name = "pyplot-fortran"
+version = "0.1.0"
+license = "BSD 3-Clause"
+author = "Jacob Williams"
+copyright = "Copyright 2021, Jacob Williams"
+[install]
+library = false
